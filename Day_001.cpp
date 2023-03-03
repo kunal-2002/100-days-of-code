@@ -22,10 +22,10 @@ int main(){
 		isUpperVowel = (c == 'A' || c == 'E' || c == 'I' || c == 'O' || c == 'U');
 
 
-		if(!isalpha(c))	
-			cout<<"\nInvalid Input";
-		else if (isLowerVowel || isUpperVowel)
+		if (isLowerVowel || isUpperVowel)
 			cout<<"\nVowel";
+		else if(!((c>='a' && c<='z') || (c>='A' && c<='Z')))	
+			cout<<"\nInvalid Input"; 
 		else
 			cout<<"\nConsonant";
 	}
