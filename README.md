@@ -16,4 +16,7 @@
     <li>    
         Day 2: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_002.cpp" target="_blank">Write a program to identify if the character is an alphabet or not.</a>
     </li>
+    <li>    
+        Day 3: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_003.cpp" target="_blank">Write a program to find ASCII values of a character.</a>
+    </li>
 </UL>
