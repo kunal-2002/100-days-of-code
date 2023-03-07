@@ -25,4 +25,7 @@
     <li>    
         Day 5: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_005.cpp" target="_blank">Write a program to identify if the number is even or odd.</a>
     </li>
+    <li>    
+        Day 6: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_006.cpp" target="_blank">Write a program to find the Quadrant in which coordinate lies.</a>
+    </li>
 </UL>
