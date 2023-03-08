@@ -11,21 +11,24 @@
 # Problems:
 <UL>
     <li>    
-        Day 1: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_001.cpp" target="_blank">Write a program to identify if the character is a vowel or consonant.</a>
+        Day 1: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_001.cpp" target="_blank">Program to identify if the character is a vowel or consonant.</a>
     </li>
     <li>    
-        Day 2: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_002.cpp" target="_blank">Write a program to identify if the character is an alphabet or not.</a>
+        Day 2: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_002.cpp" target="_blank">Program to identify if the character is an alphabet or not.</a>
     </li>
     <li>    
-        Day 3: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_003.cpp" target="_blank">Write a program to find ASCII values of a character.</a>
+        Day 3: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_003.cpp" target="_blank">Program to find ASCII values of a character.</a>
     </li>
     <li>    
-        Day 4: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_004.cpp" target="_blank">Write a program to identify if the number is positive or negative.</a>
+        Day 4: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_004.cpp" target="_blank">Program to identify if the number is positive or negative.</a>
     </li>
     <li>    
-        Day 5: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_005.cpp" target="_blank">Write a program to identify if the number is even or odd.</a>
+        Day 5: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_005.cpp" target="_blank">Program to identify if the number is even or odd.</a>
     </li>
     <li>    
-        Day 6: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_006.cpp" target="_blank">Write a program to find the Quadrant in which coordinate lies.</a>
+        Day 6: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_006.cpp" target="_blank">Program to find the Quadrant in which coordinate lies.</a>
+    </li>
+    <li>    
+        Day 7: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_007.cpp" target="_blank">Program to find Number of days in a given month of a given year.</a>
     </li>
 </UL>
