@@ -31,4 +31,7 @@
     <li>    
         Day 7: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_007.cpp" target="_blank">Program to find Number of days in a given month of a given year.</a>
     </li>
+    <li>    
+        Day 8: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_008.cpp" target="_blank">Program to find roots of a quadratic equation.</a>
+    </li>
 </UL>
