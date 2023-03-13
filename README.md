@@ -43,4 +43,7 @@
     <li>    
         Day 11: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_011.cpp" target="_blank">Program to find Fibonacci series up to n.</a>
     </li>
+    <li>    
+        Day 12: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_012.cpp" target="_blank">Program to find Sum of digits of a number.</a>
+    </li>
 </UL>
