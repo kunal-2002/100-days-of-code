@@ -46,4 +46,7 @@
     <li>    
         Day 12: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_012.cpp" target="_blank">Program to find Sum of digits of a number.</a>
     </li>
+    <li>    
+        Day 13: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_013.cpp" target="_blank">Program to find Sum of N natural numbers.</a>
+    </li>
 </UL>
