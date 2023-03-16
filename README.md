@@ -52,4 +52,7 @@
     <li>    
         Day 14: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_014.cpp" target="_blank">Program to reverse a given number.</a>
     </li>
+    <li>    
+        Day 15: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_015.cpp" target="_blank">Program to identify if the number is Strong number or not.</a>
+    </li>
 </UL>
