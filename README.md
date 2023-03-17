@@ -55,4 +55,7 @@
     <li>    
         Day 15: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_015.cpp" target="_blank">Program to identify if the number is Strong number or not.</a>
     </li>
+    <li>    
+        Day 16: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_016.cpp" target="_blank">Program to identify if the number is Perfect number or not.</a>
+    </li>
 </UL>
