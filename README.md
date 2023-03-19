@@ -61,4 +61,7 @@
     <li>    
         Day 17: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_017.cpp" target="_blank">Program to find the Factors of a number.</a>
     </li>
+    <li>    
+        Day 18: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_018.cpp" target="_blank">Program to Add two fractions.</a>
+    </li>
 </UL>
