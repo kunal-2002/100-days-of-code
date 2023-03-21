@@ -67,4 +67,7 @@
     <li>    
         Day 19: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_019.cpp" target="_blank">Program to identify if the number is Armstrong number or not.</a>
     </li>
+    <li>    
+        Day 20: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_020.cpp" target="_blank">Program to identify if the number is Prime number or not.</a>
+    </li>
 </UL>
