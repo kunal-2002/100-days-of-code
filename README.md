@@ -73,4 +73,7 @@
     <li>    
         Day 21: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_021.cpp" target="_blank">Program to identify if the number is Palindrome or not.</a>
     </li>
+    <li>    
+        Day 22: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_022.cpp" target="_blank">program to express a number as a sum of two prime numbers.</a>
+    </li>
 </UL>
