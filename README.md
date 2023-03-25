@@ -77,7 +77,7 @@
         Day 22: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_022.cpp" target="_blank">Program to express a number as a sum of two prime numbers.</a>
     </li>
     <li> 
-        Day 23: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_023.cpp" target="_blank">Program</a>
+        Day 23: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_023.cpp" target="_blank">Program to Replace all 0’s with 1 in a given integer.</a>
     </li>
 
 </UL>
