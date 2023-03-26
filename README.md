@@ -79,5 +79,8 @@
     <li> 
         Day 23: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_023.cpp" target="_blank">Program to Replace all 0’s with 1's in a given integer.</a>
     </li>
+    <li> 
+        Day 24: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_024.cpp" target="_blank">Program to print Pyramid pattern using stars.</a>
+    </li>
 
 </UL>
