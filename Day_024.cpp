@@ -18,11 +18,14 @@ int main(){
 		cout<<"Enter number of rows:\t";
 		cin>>rows;
 		
-		for(int i = 1;i<=rows;++i){
-			for(int j = 1;j<=i;++j){
-				cout<<"*"<<" ";
+		for(int i = 1;i<=rows;i++){
+			for(int j = i;j<rows;j++){
+				cout<<" ";
 			}
-			cout<<endl;
+			for(int k=1;k<=(2*i-1);k++){
+				cout<<"*";
+			}
+			cout<<"\n";
 		}
 		cout<<endl;
 	}

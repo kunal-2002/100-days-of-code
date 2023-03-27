@@ -82,5 +82,8 @@
     <li> 
         Day 24: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_024.cpp" target="_blank">Program to print Pyramid pattern using stars.</a>
     </li>
+    <li> 
+        Day 25: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_025.cpp" target="_blank">Program to find Area of a circle.</a>
+    </li>
 
 </UL>
