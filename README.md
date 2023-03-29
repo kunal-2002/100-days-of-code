@@ -88,5 +88,8 @@
     <li> 
         Day 26: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_026.cpp" target="_blank">Program to calculate Maximum number of handshakes.</a>
     </li>
-
+    <li> 
+        Day 27: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_027.cpp" target="_blank">Program</a>
+    </li>
+    
 </UL>
