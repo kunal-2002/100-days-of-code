@@ -90,6 +90,5 @@
     </li>
     <li> 
         Day 27: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_027.cpp" target="_blank">Program to find the double of the given number without using arithmetic operator.</a>
-    </li>
-    
-</UL>
+    </li   
+</UL>Day28
