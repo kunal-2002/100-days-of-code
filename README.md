@@ -89,7 +89,14 @@
     </li>
     <li>
         Day 27: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_027.cpp" target="_blank">Program to find the double of the given number without using arithmetic operator.</a>
-    </li
-</UL>Day28
-
-Day29
+    </li>
+    <li>
+        Day 28: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_028.cpp" target="_blank">Program to reverse a string.</a>
+    </li>
+    <li>
+        Day 29: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_029.cpp" target="_blank">Program to concatenate a string.</a>
+    </li>
+    <li>
+        Day 30: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_030.cpp" target="_blank">Program to print Length of the string without using strlen() function.</a>
+    </li>
+</UL>
