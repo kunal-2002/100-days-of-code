@@ -99,4 +99,7 @@
     <li>
         Day 30: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_030.cpp" target="_blank">Program to print Length of the string without using strlen() function.</a>
     </li>
+    <li>
+        Day 31: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_031.cpp" target="_blank">Program to Toggle each character in a string.</a>
+    </li>
 </UL>
