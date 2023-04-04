@@ -102,4 +102,13 @@
     <li>
         Day 31: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_031.cpp" target="_blank">Program to Toggle each character in a string.</a>
     </li>
+    <li>
+        Day 32: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_032.cpp" target="_blank">Program to Remove vowels from a string.</a>
+    </li>
+    <li>
+        Day 33: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_033.cpp" target="_blank">Program to check if String is a palindrome or not.</a>
+    </li>
+    <li>
+        Day 34: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_034.cpp" target="_blank">Program to Remove brackets from an algebraic expression.</a>
+    </li>
 </UL>
