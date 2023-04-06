@@ -111,4 +111,7 @@
     <li>
         Day 34: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_034.cpp" target="_blank">Program to Remove brackets from an algebraic expression.</a>
     </li>
+    <li>
+        Day 35: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_035.cpp" target="_blank">Program to count the sum of numbers in a string.</a>
+    </li>
 </UL>
