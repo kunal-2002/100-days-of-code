@@ -114,4 +114,7 @@
     <li>
         Day 35: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_035.cpp" target="_blank">Program to count the sum of numbers in a string.</a>
     </li>
+    <li>
+        Day 36: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_036.cpp" target="_blank">Program to Capitalize the first and last letter of each word of a string.</a>
+    </li>
 </UL>
