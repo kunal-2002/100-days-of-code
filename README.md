@@ -117,4 +117,7 @@
     <li>
         Day 36: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_036.cpp" target="_blank">Program to Capitalize the first and last letter of each word of a string.</a>
     </li>
+    <li>
+        Day 37: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_037.cpp" target="_blank">Program to calculate the Frequency of characters in a string.</a>
+    </li>
 </UL>
