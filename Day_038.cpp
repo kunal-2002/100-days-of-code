@@ -21,7 +21,22 @@ int main(){
 	cin>>T;
 	
 	while(T--){
+		string str;
+		cout<<"Enter a string:\t";
+		cin>>str;
 		
+		int freq[256] = {0};
+		
+		for(int i = 0; str[i] != '\0'; i++){
+			freq[str[i]]++;
+		}
+		
+		for(int i = 0; i<256; i++){
+			if(freq[i] == 1){
+				cout<<char(i)<<" ";
+			}
+		}
+		cout<<endl;
 	}
 	return 0;
 }
