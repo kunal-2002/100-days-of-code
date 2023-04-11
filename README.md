@@ -126,4 +126,7 @@
     <li>
         Day 39: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_039.cpp" target="_blank">Program to check if two strings are Anagram or not.</a>
     </li>
+    <li>
+        Day 40: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_040.cpp" target="_blank">Program to Replace substring in a string.</a>
+    </li>
 </UL>
