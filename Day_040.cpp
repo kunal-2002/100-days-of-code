@@ -19,7 +19,6 @@ void replace_substr(char str[], char sub[], char nstr[]){
 	for(i =0; i<strLen; i++){
 		flag = 0;
 		start = i;
-		
 		for(j = 0; str[i] == sub[j];j++,i++){
 			if(j == sublen-1)
 				flag = 1;
@@ -34,12 +33,10 @@ void replace_substr(char str[], char sub[], char nstr[]){
 				strLen--;
 				i--;
 			}
-			
 			for(j=start;j<start+nstrlen;j++)
             {
                 for(k=strLen;k>=j;k--)
                     str[k+1]=str[k];
-
                 str[j]=nstr[j-start];
                 strLen++;
                 i++;
@@ -61,9 +58,7 @@ int main(){
 		cin>>substr;
 		cout<<"Enter the new substring:\n";
 		cin>>newstr;
-		
 		replace_substr(str,substr, newstr);
-		
 		cout<<"The new string:\n"<<str<<endl;
 	}
 	return 0;

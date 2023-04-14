@@ -129,4 +129,13 @@
     <li>
         Day 40: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_040.cpp" target="_blank">Program to Replace substring in a string.</a>
     </li>
+    <li>
+        Day 41: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_041.cpp" target="_blank">Program to Check if two strings match where one string contains wildcard characters.</a>
+    </li>
+    <li>
+        Day 42: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_042.cpp" target="_blank">Program to check if two arrays are the same or not.</a>
+    </li>
+    <li>
+        Day 43: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_043.cpp" target="_blank">Program to find the array type.</a>
+    </li>
 </UL>
