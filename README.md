@@ -141,4 +141,7 @@
     <li>
         Day 44: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_044.cpp" target="_blank">Program to find number of even and odd elements in an array.</a>
     </li>
+    <li>
+        Day 45: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_045.cpp" target="_blank">Program to find smallest and largest element in an array.</a>
+    </li>
 </UL>
