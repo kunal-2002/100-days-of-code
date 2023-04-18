@@ -48,7 +48,7 @@ int main(){
 		if(res == INT_MIN)
 			res = -1;
 			
-		cout<<"Longest palindrome: "<<res;
+		cout<<"Longest palindrome: "<<res<<endl;
 				
 	}
 	return 0;
