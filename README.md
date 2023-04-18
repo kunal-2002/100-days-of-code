@@ -145,6 +145,9 @@
         Day 45: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_045.cpp" target="_blank">Program to find smallest and largest element in an array.</a>
     </li>
     <li>
-        Day 46: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_046.cpp" target="_blank"></a>
+        Day 46: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_046.cpp" target="_blank">Program to find sum of elements in an array.</a>
+    </li>
+    <li>
+        Day 47: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_047.cpp" target="_blank">Program to find longest palindrome in an array.</a>
     </li>
 </UL>
