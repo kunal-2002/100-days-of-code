@@ -150,4 +150,7 @@
     <li>
         Day 47: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_047.cpp" target="_blank">Program to find longest palindrome in an array.</a>
     </li>
+    <li>
+        Day 48: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_048.cpp" target="_blank">Program to remove duplicate elements in an array.</a>
+    </li>
 </UL>

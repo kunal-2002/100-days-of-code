@@ -21,10 +21,6 @@ bool ispalindrome(int num){
 		return false;
 }
 
-int longest_palindrome(int arr[], int size){
-	
-}
-
 int main(){
 	cout<<"Enter number of test cases:\t";
 	int T;
