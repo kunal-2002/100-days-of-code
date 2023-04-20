@@ -153,4 +153,7 @@
     <li>
         Day 48: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_048.cpp" target="_blank">Program to remove duplicate elements in an array.</a>
     </li>
+    <li>
+        Day 49: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_049.cpp" target="_blank">Given 2 integer arrays X and Y of same size. Consider both arrays as vectors and print the minimum scalar product (Dot product) of 2 vectors.</a>
+    </li>
 </UL>
