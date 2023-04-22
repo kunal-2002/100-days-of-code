@@ -160,6 +160,6 @@
         Day 50: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_050.cpp" target="_blank">Given an integer array of size N. Write Program to find sum of positive square elements in the array.</a>
     </li>
     <li>
-        Day 51: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_051.cpp" target="_blank"></a>
+        Day 51: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_051.cpp" target="_blank">Given an integer array of size N,write a program to sort the array.</a>
     </li>
 </UL>
