@@ -162,4 +162,10 @@
     <li>
         Day 51: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_051.cpp" target="_blank">Given an integer array of size N,write a program to sort the array.</a>
     </li>
+    <li>
+        Day 52: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_052.cpp" target="_blank">Given an integer array of size N, write a program to reverse the array.</a>
+    </li>
+    <li>
+        Day 53: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_053.cpp" target="_blank">Given an integer array of size N. Write Program to find maximum product subarray in a given array.</a>
+    </li>
 </UL>
