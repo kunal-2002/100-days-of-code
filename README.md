@@ -168,4 +168,7 @@
     <li>
         Day 53: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_053.cpp" target="_blank">Given an integer array of size N. Write Program to find maximum product subarray in a given array.</a>
     </li>
+    <li>
+        Day 54: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_054.cpp" target="_blank">Given an integer array of size N. Write Program to find whether Arrays are disjoint or not. Two arrays are said to be disjoint if they have no elements in common.</a>
+    </li>
 </UL>
