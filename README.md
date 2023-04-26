@@ -171,4 +171,7 @@
     <li>
         Day 54: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_054.cpp" target="_blank">Given an integer array of size N. Write Program to find whether Arrays are disjoint or not. Two arrays are said to be disjoint if they have no elements in common.</a>
     </li>
+    <li>
+        Day 55: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_055.cpp" target="_blank">Given 2 integer arrays X and Y of same size. Consider both arrays as vectors and print the sum of maximum scalar product (Dot product) of 2 vectors.</a>
+    </li>
 </UL>
