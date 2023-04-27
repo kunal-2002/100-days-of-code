@@ -174,4 +174,7 @@
     <li>
         Day 55: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_055.cpp" target="_blank">Given 2 integer arrays X and Y of same size. Consider both arrays as vectors and print the sum of maximum scalar product (Dot product) of 2 vectors.</a>
     </li>
+    <li>
+        Day 56: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_056.cpp" target="_blank">Program to find whether the numbers of an array be made equal.</a>
+    </li>
 </UL>
