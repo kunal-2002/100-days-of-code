@@ -177,4 +177,7 @@
     <li>
         Day 56: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_056.cpp" target="_blank">Program to find whether the numbers of an array be made equal.</a>
     </li>
+    <li>
+        Day 57: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_057.cpp" target="_blank">PASS or FAIL</a>
+    </li>
 </UL>
