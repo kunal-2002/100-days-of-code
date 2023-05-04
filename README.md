@@ -180,4 +180,16 @@
     <li>
         Day 57: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_057.cpp" target="_blank">PASS or FAIL</a>
     </li>
+    <li>
+        Day 58: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_058.cpp" target="_blank">Bucket Filling: Nejiya has a bucket having a capacity of K liters. It is already filled with X liters of water.Find the maximum amount of extra water in liters that Nejiya can fill in the bucket without overflowing.</a>
+    </li>
+    <li>
+        Day 59: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_059.cpp" target="_blank">Body Mass Index: You are given the height H (in metres) and mass M (in kilograms) of Anusree. The Body Mass Index (BMI) of a person is computed as M/H^2.</a>
+    </li>
+    <li>
+        Day 60: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_060.cpp" target="_blank">Good Weather: The weather report of Magicland is Good if the number of sunny days in a week is strictly greater than the number of rainy days.Given 7 integers A1,A2,A3,A4,A5,A6,A7 where Ai=1 denotes that the ith day of week in Magicland is a sunny day, Ai=0 denotes that the ith day in Magicland is a rainy day. Determine if the weather report of Magicland is Good or not.</a>
+    </li>
+    <li>
+        Day 61: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_061.cpp" target="_blank">Chess Format:Given the time control of a chess match as a+b, determine which format of chess out of the given 4 it belongs to Bullet, Blitz, Rapid or Classical.</a>
+    </li>
 </UL>
