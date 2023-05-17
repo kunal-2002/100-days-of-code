@@ -18,6 +18,30 @@ int main(){
 	cin>>T;
 	
 	while(T--){
+		int N, B;
+		cin>>N>>B;
+		int max = -1;
+
+		for(int i=0; i<N; i++){
+			int w, h, p;
+			cin>>w>>h>>p;
+			int area = w*h;
+			
+			if(p <= B){
+				if(area > max){
+					max = area;
+				}
+			}
+		}
+		
+		if(max == -1){
+			cout<<"no tablet\n";
+		}
+		else{
+			cout<<max<<"\n";
+		}
+		
+		
 		
 	}
 	return 0;
