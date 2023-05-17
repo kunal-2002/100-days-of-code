@@ -190,7 +190,7 @@
         Day 60: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_060.cpp" target="_blank">Good Weather: The weather report of Magicland is Good if the number of sunny days in a week is strictly greater than the number of rainy days.Given 7 integers A1,A2,A3,A4,A5,A6,A7 where Ai=1 denotes that the ith day of week in Magicland is a sunny day, Ai=0 denotes that the ith day in Magicland is a rainy day. Determine if the weather report of Magicland is Good or not.</a>
     </li>
     <li>
-        Day 61: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_061.cpp" target="_blank">Chess Format: Given the time control of a chess match as a+b, determine which format of chess out of the given 4 it belongs to Bullet, Blitz, Rapid or Classical.</a>
+        Day 61: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_061.cpp" target="_blank">Chess Format: Given the time control of a chess match as a+b,determine which format of chess out of the given 4 it belongs to: Bullet (if a+b<3), Blitz (if 3 <= a+b <= 10), Rapid (if 11<=a+b<=60) or Classical (if 60<a+b). </a>
     </li>
     <li>
         Day 62: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_062.cpp" target="_blank">Gold Mining: Anusree has decided to go to a gold mine along with N of his friends (thus, total N+1 people including Anusree go to the gold mine).The gold mine contains a total of X kg of gold. Every person has the capacity of carrying up atmost Y kg of gold.Will Anusree and his friends together be able to carry up all the gold from the gold mine assuming that they can go to the mine exactly once.</a>

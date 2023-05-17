@@ -15,7 +15,9 @@ int main(){
 	cin>>T;
 	
 	while(T--){
-		
+		int K, X;
+		cin>>K>>X;
+		cout<<K-X<<"\n";
 	}
 	return 0;
 }

@@ -16,6 +16,23 @@ int main(){
 	cin>>T;
 	
 	while(T--){
-		
+		int arr[7];
+		for(int i=0; i<7; i++){
+			cin>>arr[i];
+		}
+		int a = 0, b = 0;
+		for(int j=0; j<7;j++){
+			if(arr[j] == 1){
+				a++;
+			}
+			else{
+				b++;
+			}
+		}
+		if(a>b)
+			cout<<"YES\n";
+		else
+			cout<<"NO\n";
+	}
 	return 0;
 }
