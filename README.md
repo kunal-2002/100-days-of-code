@@ -213,4 +213,21 @@
     <li>
         Day 68: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_068.cpp" target="_blank">You will be given queries. Each query is of one of the following three types: Add an element to the set, Delete an element from the set. (If the number is not present in the set, then do nothing), If the number is present in the set, then print "Yes"(without quotes) else print "No"(without quotes).</a>
     </li>
+    <li>
+        Day 69: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_069.cpp" target="_blank"> Suppose, we have a class A which is the base class and we have a class B which is derived from class A and we have a class C which is derived from class B, we can access the functions of both class A and class B by creating an object for class C.Hence, this mechanism is called multi-level inheritance. (B inherits A and C inherits B).Create a class called Equilateral which inherits from Isosceles and should have a function such that the output is as given below.</a>
+    </li>
+    <li>
+        Day 70: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_070.cpp" target="_blank">Given an array, rotate the array by one position in clock-wise direction.</a>
+    </li>
+    <li>
+        Day 71: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_071.cpp" target="_blank">There are N students in a class, where the i-th student has a score of Ai?.The i-th student will boast if and only if the number of students scoring less than or equal Ai? is greater than the number of students scoring greater than Ai?.Find the number of students who will boast.</a>
+    </li>
+    <li>
+        Day 72: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_072.cpp" target="_blank">Implement a simple editor. The editor maintains the content of a string S and have two following functions:
+        "+ i x": insert a string x into the current string S after the i'th character of the S (we use 1-indexing in this problem). When i equals to 0 it mean we add x at the beginning of S.
+        "? i len": Print the sub-string of length len starting at position i'th of S.At the beginning, the editor holds an empty string. There will be Q queries of the two types described above.</a>
+    </li>
+    <li>
+        Day 73: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_073.cpp" target="_blank">A string is called boring if all the characters of the string are same.You are given a string S of length N, consisting of lowercase english alphabets. Find the length of the longest boring substring of S which occurs more than once.Note that if there is no boring substring which occurs more than once in S, the answer will be 00.A substring is obtained by deleting some (possibly zero) elements from the beginning of the string and some (possibly zero) elements from the end of the string.</a>
+    </li>
 </UL>

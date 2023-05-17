@@ -1,6 +1,5 @@
 /**
- *Problem Statement:    Body Mass Index: You are given the height H (in metres) and mass M (in kilograms) of Anusree. 
- 						The Body Mass Index (BMI) of a person is computed as M/H^2.
+ *Problem Statement:    Given an array, rotate the array by one position in clock-wise direction.
  *Author: Kunal Kathpal (https://github.com/kunal-2002)
  */
 	
