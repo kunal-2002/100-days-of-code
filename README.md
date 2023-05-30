@@ -230,4 +230,41 @@
     <li>
         Day 73: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_073.cpp" target="_blank">A string is called boring if all the characters of the string are same.You are given a string S of length N, consisting of lowercase english alphabets. Find the length of the longest boring substring of S which occurs more than once.Note that if there is no boring substring which occurs more than once in S, the answer will be 00.A substring is obtained by deleting some (possibly zero) elements from the beginning of the string and some (possibly zero) elements from the end of the string.</a>
     </li>
+    <li>
+        Day 74: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_074.cpp" target="_blank">You have a grid with N rows and M columns. You have two types of tiles — one of dimensions 2×2 and the other of dimensions 1×1. You want to cover the grid using these two types of tiles in such a way that: Each cell of the grid is covered by exactly one tile; and The number of 1×1 tiles used is minimized.Find the minimum number of 1×1 tiles you have to use to fill the grid.</a>
+    </li>
+    <li>
+        Day 75: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_075.cpp" target="_blank">You are a person who is always fond of eating candies. Your friend gave you a candy of length N, to eat during the break period of your school.You start eating this candy from one of the ends. But as it is not your candy, your friend told you to eat exactly K unit length of candy during each bite. You will stop eating if the candy's length becomes 00. This means that you have eaten the entire candy.If at some point of time, the candy's length is positive, but less than K, you cannot take a bite thereafter.Can you eat the complete candy? If yes, print the number bites it will take, else print −1−1.</a>
+    </li>
+    <li>
+        Day 76: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_076.cpp" target="_blank">You are given N integers. In each step you can choose some K of the remaining numbers and delete them, if the following condition holds: Let the K numbers you've chosen be a1, a2, a3, ..., aK in sorted order. Then, for each i ≤ K - 1, ai+1 must be greater than or equal to ai * C.You are asked to calculate the maximum number of steps you can possibly make.</a>
+    </li>
+    <li>
+        Day 77: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_077.cpp" target="_blank">You are given an array A of N elements. For any ordered triplet (i,j,k) such that i, j, and k are pairwise distinct and 1≤i,j,k≤N, the value of this triplet is (Ai?−Aj?)⋅Ak?. You need to find the maximum value among all possible ordered triplets.Note: Two ordered triplets (a,b,c) and (d,e,f) are only equal when a=d and b=e and c=f. As an example, (1,2,3) and (2,3,1) are two different ordered triplets.</a>
+    </li>
+    <li>
+        Day 78: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_078.cpp" target="_blank">For a given array B1?,B2?,…,BM? of length at least 3, let's define its weight as the largest value of (Bi?−Bj?)⋅(Bj?−Bk?) over all possible triples (i,j,k) with 1≤i,j,k≤M and i!=j, j!=k, k!=i.You are given a sorted array A1?,A2?,…,AN? (that is, A1?≤A2?≤…≤AN?).Calculate the sum of weights of all contiguous subarrays of A of length at least 3. That is, count the sum of weights of arrays [Ai?,Ai+1?,…,Aj?] over all 1≤i< j≤N with j−i≥2.</a>
+    </li>
+    <li>
+        Day 79: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_079.cpp" target="_blank">You are given a binary string S of length N. You can perform the following operation on S:Pick any set of indices such that no two picked indices are adjacent.Flip the values at the picked indices (i.e. change 0 to 1 and 1 to 0).For example, consider the string S=1101101.If we pick the indices {1,3,6}, then after flipping the values at picked indices, we will get 1?10?110?1→0111111.Note that we cannot pick the set {2,3,5} since 2 and 3 are adjacent indices.Find the minimum number of operations required to convert all the characters of S to 0.</a>
+    </li>
+    <li>
+        Day 80: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_080.cpp" target="_blank">Alice and Bob went to a pet store. There are N animals in the store where the ith animal is of type Ai?.Alice decides to buy some of these N animals. Bob decides that he will buy all the animals left in the store after Alice has made the purchase.Find out whether it is possible that Alice and Bob end up with exactly same multiset of animals.</a>
+    </li>
+    <li>
+        Day 81: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_081.cpp" target="_blank">You have a binary string S of length N. In one operation you can select a substring of S and reverse it. For example, on reversing the substring [2,4]S[2,4] for S=11000, we change 11000→10010.Find the minimum number of operations required to sort this binary string.It can be proven that the string can always be sorted using the above operation finite number of times.</a>
+    </li>
+    <li>
+        Day 82: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_082.cpp" target="_blank">You are given N binary strings of length N each. You need to find a binary string of length N which is different from all of the given strings.Note:A binary string is defined as a string consisting only of '0' and '1'.A string is considered different from another string when they have different lengths, or when they differ in at least one position.</a>
+    </li>
+    <li>
+        Day 83: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_083.cpp" target="_blank">Given a complete binary tree with the height of H, we index the nodes respectively top-down and left-right from 1. The i-th node stores a positive integer Vi. Define Pi as follows: Pi=Vi if the i-th node is a leaf, otherwise Pi=max(Vi*PL, Vi*PR), where L and R are the indices of the left and right children of i, respectively. Your task is to caculate the value of P1.</a>
+    </li>
+    <li>
+        Day 84: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_084.cpp" target="_blank">Given an undirected graph and an integer M. The task is to determine if the graph can be colored with at most M colors such that no two adjacent vertices of the graph are colored with the same color. Here coloring of a graph means the assignment of colors to all vertices. Print 1 if it is possible to colour vertices and 0 otherwise.</a>
+    </li>
+    <li>
+        Day 85: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_085.cpp" target="_blank">You are given an undirected graph with N nodes (numbered 1 through N) and M edges. Each edge connects two distinct nodes. However, there may be multiple edges connecting the same pairs of nodes, and they are considered to be distinct edges. A lowercase English letter is written in each node.You are also given a string S with length L. A beautiful path is a sequence of L−1 edges such that there is a sequence of L nodes with the following properties:for each valid i, the i-th edge connects the i-th and (i+1)-th of these nodes for each valid i, the i-th character of S is written in the i-th of these nodes. There are no other restrictions — a path may visit nodes or edges any number of times in any order.Determine the number of beautiful paths in the graph. Since the answer can be very large, compute it modulo (10^9)+7.</a>
+    </li>
+
 </UL>
