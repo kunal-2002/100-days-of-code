@@ -266,5 +266,11 @@
     <li>
         Day 85: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_085.cpp" target="_blank">You are given an undirected graph with N nodes (numbered 1 through N) and M edges. Each edge connects two distinct nodes. However, there may be multiple edges connecting the same pairs of nodes, and they are considered to be distinct edges. A lowercase English letter is written in each node.You are also given a string S with length L. A beautiful path is a sequence of L−1 edges such that there is a sequence of L nodes with the following properties:for each valid i, the i-th edge connects the i-th and (i+1)-th of these nodes for each valid i, the i-th character of S is written in the i-th of these nodes. There are no other restrictions — a path may visit nodes or edges any number of times in any order.Determine the number of beautiful paths in the graph. Since the answer can be very large, compute it modulo (10^9)+7.</a>
     </li>
+    <li>
+        Day 86: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_086.cpp" target="_blank">Mahesh got a beautiful array named A as a birthday gift from his beautiful girlfriend Namratha. There are N positive integers in that array. Mahesh loved the array so much that he started to spend a lot of time on it everyday. One day, he wrote down all possible subsets of the array. Then for each subset, he calculated the sum of elements in that subset and wrote it down on a paper. Unfortunately, Mahesh lost the beautiful array :(. He still has the paper on which he wrote all subset sums. Your task is to rebuild beautiful array A and help the couple stay happy :)</a>
+    </li>
+    <li>
+        Day 87: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_087.cpp" target="_blank"></a>
+    </li>
 
 </UL>
