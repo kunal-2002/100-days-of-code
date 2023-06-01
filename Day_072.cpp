@@ -9,14 +9,28 @@
 #include <bits/stdc++.h>
 
 using namespace std;
+#define ll long long
+char c, d, e;
+string a, b, f;
+ll i, j, k, l, q;
+char str[300005];
 
 int main(){
-	cout<<"Enter number of test cases:\t";
-	int T;
-	cin>>T;
+	a = "";
+	cin>>q;
 	
-	while(T--){
-		
+	for(i = 0; i<q; i++){
+		cin>>c>>l;
+		if(c == '+'){
+			cin>>str;
+			a.insert(l, str);
+		}
+		else if(c == '?'){
+			cin>>k;
+			f = a.substr(l-1, k);
+			cout<<f<<endl;
+		}
 	}
+	
 	return 0;
 }
