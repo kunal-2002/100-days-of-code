@@ -11,13 +11,32 @@
 
 using namespace std;
 
+long long int wt(long long int i, long long int j, long long int k){
+	return (long long int)(j-i)*(k-j);
+}
+
 int main(){
 	cout<<"Enter number of test cases:\t";
 	int T;
 	cin>>T;
 	
 	while(T--){
-		
+		int n;
+		cin>>n;
+		long long int A[n];
+		for(int i=0; i<n; i++){
+			cin>>A[i];
+		}
+		long long int sum = 0L;
+		for(int i=0; i<n; i++){
+			for(int j=i+2;j<n;j++){
+				long long int k = (A[i]+A[j])/2L;
+				auto u = upper_bound(A+i+1,A+j,k);
+				auto l = u-1;
+				sum = sum+max(wt(A[i],*l, A[j]), 0LL);
+			}
+		}
+		cout<<sum<<"\n";
 	}
 	return 0;
 }

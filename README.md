@@ -270,7 +270,12 @@
         Day 86: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_086.cpp" target="_blank">Mahesh got a beautiful array named A as a birthday gift from his beautiful girlfriend Namratha. There are N positive integers in that array. Mahesh loved the array so much that he started to spend a lot of time on it everyday. One day, he wrote down all possible subsets of the array. Then for each subset, he calculated the sum of elements in that subset and wrote it down on a paper. Unfortunately, Mahesh lost the beautiful array :(. He still has the paper on which he wrote all subset sums. Your task is to rebuild beautiful array A and help the couple stay happy :)</a>
     </li>
     <li>
-        Day 87: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_087.cpp" target="_blank"></a>
+        Day 87: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_087.cpp" target="_blank">There are N stones in a pond, each having a value Ai? written on it. A frog is at stone 1 and wants to reach stone N. The frog can jump from a stone i to any stone j(j>i). Let d be the length of subarray (i.e. j−i+1), then the energy required for the jump is (d⋅Ai?)−Aj?. Find the minimum non-negative amount of energy required by the frog to reach the N-th stone.Note: It is possible that the total amount of energy required is negative, in that case, you should print the minimum non-negative value (i.e. 0).</a>
     </li>
-
+    <li>
+        Day 88: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_088.cpp" target="_blank">Blobo2 is in his practical exam. The teacher gave him a permutation A of N integers.The teacher has allowed Blobo2 to make a certain type of operation on the permutation. In one operation, he can: Apply left shift on the permutation. In other words, he can take the first element of the permutation and move it to the back of the permutation.The teacher has asked Blobo2 to find the lexicographically smallest permutation possible after applying any (possibly zero) number of given operations.Since Blobo2 wants to impress his teacher, he decided to perform at most two swaps in addition to the allowed operation.Find the lexicographically smallest possible permutation Blobo2 can generate after applying at most two swaps and any number of given operations.</a>
+    </li>
+    <li>
+        Day 89: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_089.cpp" target="_blank">You are given N integers. In each step you can choose some K of the remaining numbers and delete them, if the following condition holds: Let the K numbers you've chosen be a1, a2, a3, ..., aK in sorted order. Then, for each i ≤ K - 1, ai+1 must be greater than or equal to ai*C.You are asked to calculate the maximum number of steps you can possibly make.</a>
+    </li>
 </UL>

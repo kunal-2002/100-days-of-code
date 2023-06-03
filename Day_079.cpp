@@ -14,10 +14,29 @@ using namespace std;
 
 int main(){
 	cout<<"Enter number of test cases:\t";
-	int T;
+	int T,N,i;
+	string s;
 	cin>>T;
 	
 	while(T--){
+		cin>>N;
+		cin>>s;
+		for(i=0; i<N; ++i)
+			if(s[i]=='1')
+				break;
+		if(i == N){
+			cout<<0<<endl;
+			continue;
+		}
+		else{
+			for(i=1;i<N;++i)
+				if(s[i] == '1' && s[i-1] == '1')
+					break;
+			if(i == N)
+				cout<<1<<endl;
+			else
+				cout<<2<<endl;	
+		}
 		
 	}
 	return 0;

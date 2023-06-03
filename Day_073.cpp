@@ -17,7 +17,46 @@ int main(){
 	cin>>T;
 	
 	while(T--){
+		int n;
+		cin>>n;
+		string str;
+		cin>>str;
 		
+		string res = "";
+		unordered_set<string> s;
+		res = str[0];
+		
+		int I, mx, sum;
+		I = mx = 0;
+		sum = 1;
+		for(int i=1; i<n; i++){
+			if(str[i-1]!=str[i]){
+				if(mx<sum){
+					mx = sum;
+					mx--;
+				}
+				if(s.find(res) != s.end())
+					I = max(I, sum);
+				s.insert(res);
+				res = str[i];
+				sum = 1;
+			}
+			else{
+				sum++;
+				res+=str[i];
+			}
+		}
+		if(s.find(res)!=s.end()){
+			I = max(I, sum);
+		}
+		else{
+			if(mx<sum){
+				mx = sum;
+				mx--;
+			}
+		}
+		int ans = max(I,mx);
+		cout<<ans<<endl;
 	}
 	return 0;
 }

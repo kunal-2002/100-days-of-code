@@ -18,7 +18,15 @@ int main(){
 	cin>>T;
 	
 	while(T--){
+		int n, k;
+		cin>>n>>k;
 		
+		if(n%k==0){
+			cout<<n/k<<endl;
+		}
+		else{
+			cout<<"-1"<<endl;
+		}
 	}
 	return 0;
 }
