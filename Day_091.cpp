@@ -1,8 +1,12 @@
 /**
- *Problem Statement:    You are given N integers. In each step you can choose some K of the remaining numbers and 
- 		delete them, if the following condition holds: Let the K numbers you've chosen be a1, a2, a3, ..., aK in 
-		sorted order. Then, for each i = K - 1, ai+1 must be greater than or equal to ai*C.You are asked to calculate 
-		the maximum number of steps you can possibly make.
+ *Problem Statement:    Sridhar was a seasoned traveler. He liked to visit new places. More than all he was a 
+ 		meticulous planner. This time he was planning to visit Europe. He wrote down his travel itinerary like as 
+		follows:If he wanted to visit Madrid, Paris, Munich, Warsaw and Kiev in this order, he would write it down 
+		like as:Madrid Paris 100, Paris Munich 200, Munich Warsaw 150, Warsaw Kiev 120 More formally, if he wanted to 
+		go from A to B directly and the price is C dollars, then he would write A B C on a card. Each move was 
+		written on a different card. Sridhar was a great planner, so he would never visit the same place twice. 
+		Just before starting his journey, the cards got shuffled. Help Sridhar figure out the actual order of the 
+		cards and the total cost of his journey.
  *Author: Kunal Kathpal (https://github.com/kunal-2002)
  */
 	

@@ -1,8 +1,10 @@
 /**
- *Problem Statement:    You are given N integers. In each step you can choose some K of the remaining numbers and 
- 		delete them, if the following condition holds: Let the K numbers you've chosen be a1, a2, a3, ..., aK in 
-		sorted order. Then, for each i = K - 1, ai+1 must be greater than or equal to ai*C.You are asked to calculate 
-		the maximum number of steps you can possibly make.
+ *Problem Statement:    Let X be the set of all integers between 0 and n-1. Suppose we have a 
+ 		collection S1, S2, ..., Sm of subsets of X. Say an atom A is a subset of X such that for each Si we have 
+		either A is a subset of Si or A and Si do not have any common elements.Your task is to find a collection 
+		A1, ..., Ak of atoms such that every item in X is in some Ai and no two Ai, Aj with i ? j share a common 
+		item. Surely such a collection exists as we could create a single set {x} for each x in X. A more 
+		interesting question is to minimize k, the number of atoms.
  *Author: Kunal Kathpal (https://github.com/kunal-2002)
  */
 	

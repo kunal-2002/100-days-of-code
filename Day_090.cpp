@@ -1,8 +1,11 @@
 /**
- *Problem Statement:    You are given N integers. In each step you can choose some K of the remaining numbers and 
- 		delete them, if the following condition holds: Let the K numbers you've chosen be a1, a2, a3, ..., aK in 
-		sorted order. Then, for each i = K - 1, ai+1 must be greater than or equal to ai*C.You are asked to calculate 
-		the maximum number of steps you can possibly make.
+ *Problem Statement:    Gru has a string S of length N, consisting of only characters a and b for banana and P 
+ 		points to spend.Now Gru wants to replace and/or re-arrange characters of this given string to get the 
+		lexicographically smallest string possible. For this, he can perform the following two operations any 
+		number of times.Swap any two characters in the string. This operation costs 11point. (any two, need not 
+		be adjacent).Replace a character in the string with any other lower case english letter. This operation 
+		costs 2 points.Help Gru in obtaining the lexicographically smallest string possible, by using at most P 
+		points.
  *Author: Kunal Kathpal (https://github.com/kunal-2002)
  */
 	
