@@ -16,7 +16,16 @@ int main(){
 	cin>>T;
 	
 	while(T--){
-		
+		int x, y;
+		cin>>x;
+		int cnt = 0;
+		string s;
+		cin>>s;
+		for(int j=1;j<x;j++){
+			if(s[j-1]=='1' && s[j] == '0')
+				cnt++;
+		}
+		cout<<cnt<<endl;
 	}
 	return 0;
 }

@@ -199,7 +199,7 @@
         Day 63: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_063.cpp" target="_blank">Balancing Weight: No play and eating all day makes your belly fat. This happened to Manish during the lockdown. His weight before the lockdown was w1 kg (measured on the most accurate hospital machine) and after M months of lockdown, when he measured his weight at home (on a regular scale, which can be inaccurate), he got the result that his weight was w2 kg (w2>w1).Scientific research in all growing kids shows that their weights increase by a value between x1 and x2 kg (inclusive) per month, but not necessarily the same value each month. Manish assumes that he is a growing kid. Tell him whether his home scale could be giving correct results.</a>
     </li>
     <li>
-        Day 64: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_064.cpp" target="_blank">Amit and Feedback: Lots of geeky customers visit our Amit's restaurant everyday. So, when asked to fill the feedback form, these customers represent the feedback using a binary string (i.e a string that contains only characters '0' and '1'.Now since Amit is not that great in deciphering binary strings, he has decided the following criteria to classify the feedback as Good or Bad :If the string contains the substring "010" or "101", then the feedback is Good, else it is Bad. Note that, to be Good it is not necessary to have both of them as substring.So given some binary strings, you need to output whether according to the Amit, the strings are Good or Bad.</a>
+        Day 64: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_064.cpp" target="_blank">Amit and Feedback: Lots of geeky customers visit our Amit's restaurant everyday. So, when asked to fill the feedback form, these customers represent the feedback using a binary string i.e a string that contains only characters '0' and '1'.Now since Amit is not that great in deciphering binary strings, he has decided the following criteria to classify the feedback as Good or Bad :If the string contains the substring "010" or "101", then the feedback is Good, else it is Bad. Note that, to be Good it is not necessary to have both of them as substring.So given some binary strings, you need to output whether according to the Amit, the strings are Good or Bad.</a>
     </li>
     <li>
         Day 65: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_065.cpp" target="_blank">New Tablet: Ajinkya decided to buy a new tablet. His budget is B, so he cannot buy a tablet whose price is greater than B. Other than that, he only has one criterion — the area of the tablet's screen should be as large as possible. Of course, the screen of a tablet is always a rectangle.Ajinkya has visited some tablet shops and listed all of his options. In total, there are N available tablets, numbered 1 through N. For each valid i, the i-th tablet has width Wi, height Hi and price Pi.Help Ajinkya choose a tablet which he should buy and find the area of such a tablet's screen, or determine that he cannot buy any tablet.</a>
@@ -277,5 +277,38 @@
     </li>
     <li>
         Day 89: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_089.cpp" target="_blank">You are given N integers. In each step you can choose some K of the remaining numbers and delete them, if the following condition holds: Let the K numbers you've chosen be a1, a2, a3, ..., aK in sorted order. Then, for each i ≤ K - 1, ai+1 must be greater than or equal to ai*C.You are asked to calculate the maximum number of steps you can possibly make.</a>
+    </li>
+    <li>
+        Day 90: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_090.cpp" target="_blank">Gru has a string S of length N, consisting of only characters a and b for banana and P points to spend.Now Gru wants to replace and/or re-arrange characters of this given string to get the lexicographically smallest string possible. For this, he can perform the following two operations any number of times.Swap any two characters in the string. This operation costs 11point. (any two, need not be adjacent).Replace a character in the string with any other lower case english letter. This operation costs 2 points.Help Gru in obtaining the lexicographically smallest string possible, by using at most P points.</a>
+    </li>
+    <li>
+        Day 91: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_091.cpp" target="_blank">Sridhar was a seasoned traveler. He liked to visit new places. More than all he was a meticulous planner. This time he was planning to visit Europe. He wrote down his travel itinerary like as follows:If he wanted to visit Madrid, Paris, Munich, Warsaw and Kiev in this order, he would write it down like as:Madrid Paris 100, Paris Munich 200, Munich Warsaw 150, Warsaw Kiev 120 More formally, if he wanted to go from A to B directly and the price is C dollars, then he would write A B C on a card. Each move was written on a different card. Sridhar was a great planner, so he would never visit the same place twice. Just before starting his journey, the cards got shuffled. Help Sridhar figure out the actual order of the cards and the total cost of his journey.</a>
+    </li>
+    <li>
+        Day 92: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_092.cpp" target="_blank">Let X be the set of all integers between 0 and n-1. Suppose we have a collection S1, S2, ..., Sm of subsets of X. Say an atom A is a subset of X such that for each Si we have either A is a subset of Si or A and Si do not have any common elements.Your task is to find a collection A1, ..., Ak of atoms such that every item in X is in some Ai and no two Ai, Aj with i ≠ j share a common item. Surely such a collection exists as we could create a single set {x} for each x in X. A more interesting question is to minimize k, the number of atoms.</a>
+    </li>
+    <li>
+        Day 93: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_093.cpp" target="_blank"></a>
+    </li>
+    <li>
+        Day 94: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_094.cpp" target="_blank"></a>
+    </li>
+    <li>
+        Day 95: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_095.cpp" target="_blank"></a>
+    </li>
+    <li>
+        Day 96: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_096.cpp" target="_blank"></a>
+    </li>
+    <li>
+        Day 97: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_097.cpp" target="_blank"></a>
+    </li>
+    <li>
+        Day 98: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_098.cpp" target="_blank"></a>
+    </li>
+    <li>
+        Day 99: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_099.cpp" target="_blank"></a>
+    </li>
+    <li>
+        Day 100: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_100.cpp" target="_blank"></a>
     </li>
 </UL>
