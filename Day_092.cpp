@@ -12,13 +12,59 @@
 
 using namespace std;
 
+const int MAXN = 100;
+const int MAXM = 30;
+
+int uf[MAXN], s[MAXN];
+
+int parent(int v) {
+    if (v == uf[v]) return v;
+    return uf[v] = parent(uf[v]);
+}
+
+void merge(int u, int v) {
+    uf[parent(u)] = parent(v);
+}
+
 int main(){
 	cout<<"Enter number of test cases:\t";
 	int T;
 	cin>>T;
 	
 	while(T--){
-		
+		int n, m;
+        cin >> n >> m;
+        for (int i = 0; i < n; ++i) {
+            uf[i] = i;
+            s[i] = 0;
+        }
+        for (int i = 0; i < m; ++i) {
+            int k, l;
+            cin >> k;
+            while (k--) {
+                cin >> l;
+                s[l] |= (1 << i);
+            }
+        }
+        int ans = n;
+        vector<bool> vis(n, false);
+        for (int i = 0; i < n; ++i)
+        {   
+            if(vis[i]) continue;
+            for (int j = i+1; j < n; ++j)
+            {
+                if (s[i] == s[j])
+                {
+                    vis[j] = true;
+                    ans--;
+                }
+            }
+            vis[i]=true;
+        }
+
+        // int cnt = 0;
+        // for (int i = 0; i < n; ++i) if (uf[i] == i) ++cnt;
+        cout << ans << endl;
 	}
 	return 0;
 }
