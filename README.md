@@ -308,5 +308,7 @@
     <li>
         Day 99: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_099.cpp" target="_blank"></a>
     </li>
-    
+    <li>
+        Day 100: <a href="https://github.com/kunal-2002/100-days-of-code/blob/master/Day_100.cpp" target="_blank"></a>
+    </li>
 </UL>
