@@ -40,6 +40,6 @@ int main(){
               }
        }
        cout<<res<<endl;
-
+       getchar();
 	return 0;
 }
