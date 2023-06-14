@@ -16,7 +16,7 @@
  *Author: Kunal Kathpal (https://github.com/kunal-2002)
  */
 
-#include <bits/stdc++.h>
+#include <iostream>
 
 using namespace std;
 
@@ -26,7 +26,21 @@ int main(){
 	cin>>T;
 
 	while(T--){
+      string x,y;
+	    cin>>x>>y;
+	    for(int i=0;i<=x.length()-1;i++){
+	        if(x[i]==y[i] && x[i]=='W'){
+	            cout<<"B";
+	        }
+	        else if(x[i]==y[i] && x[i]=='B'){
+	            cout<<"W";
+	        }
+	        else {
+	            cout<<"B";
+	        }
 
+	    }
+	    cout<<endl;
 	}
 	return 0;
 }
